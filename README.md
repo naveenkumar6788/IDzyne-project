@@ -67,5 +67,5 @@ flutter run
 
 ## 📬 Contact
 
-📧 **Email:** [scs150831@gmail.com](mailto:scs150831@gmail.com)
-🌍 **GitHub:** [bhagyaprasad92](https://github.com/bhagyaprasad92)
+📧 **Email:** [naveenkumardasari6788@gmail.com](mailto:naveenkumardasari6788@gmail.com)
+🌍 **GitHub:** [naveenkumar6788](https://github.com/naveenkumar6788)
